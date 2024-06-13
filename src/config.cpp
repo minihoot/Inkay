@@ -46,7 +46,7 @@ constexpr config_strings get_config_strings(nn::swkbd::LanguageType language) {
             return {
                 .plugin_name = "Inkay",
                 .network_category = "Network selection",
-                .connect_to_network_setting = "Connect to the Pretendo network",
+                .connect_to_network_setting = "Connect to game-dev (Requires proxy)",
                 .other_category = "Other settings",
                 .reset_wwp_setting = "Reset Wara Wara Plaza",
                 .press_a_action = "Press A",
