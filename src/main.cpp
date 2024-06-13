@@ -56,7 +56,7 @@
     If not set correctly, the loader will refuse to use the plugin.
 **/
 WUPS_PLUGIN_NAME("Inkay");
-WUPS_PLUGIN_DESCRIPTION("Pretendo Network Patcher");
+WUPS_PLUGIN_DESCRIPTION("game-dev and Freakverse patcher");
 WUPS_PLUGIN_VERSION(INKAY_VERSION);
 WUPS_PLUGIN_AUTHOR("Pretendo contributors");
 WUPS_PLUGIN_LICENSE("ISC");
