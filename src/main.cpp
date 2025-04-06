@@ -32,7 +32,6 @@
 #include <coreinit/title.h>
 #include <notifications/notifications.h>
 #include <utils/logger.h>
-#include "iosu_url_patches.h"
 #include "config.h"
 #include "Notification.h"
 #include "patches/olv_urls.h"
